@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "o1kOUzwuA23bque84W9fe7f8d0qLRwYBx5YmNTpeT8GyIcFRLaVVFarjo59OvMMKx6POBtWPARRHus10bDAqNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\ProtectedApi\\ProtectedApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkurt\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.2\\microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
+    "C:\\Users\\mkurt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\mkurt\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\mkurt\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\mkurt\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\mkurt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\mkurt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
