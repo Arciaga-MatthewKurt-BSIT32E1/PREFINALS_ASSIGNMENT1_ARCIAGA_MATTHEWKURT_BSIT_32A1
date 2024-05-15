@@ -1,0 +1,8 @@
+C:\Users\mkurt\Documents\GitHub\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\PREFINALS_AUTH_ARCIAGA_MATTHEW\AuthServer\obj\Debug\net8.0\AuthServer.csproj.AssemblyReference.cache
+C:\Users\mkurt\Documents\GitHub\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\PREFINALS_AUTH_ARCIAGA_MATTHEW\AuthServer\obj\Debug\net8.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkurt\Documents\GitHub\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\PREFINALS_AUTH_ARCIAGA_MATTHEW\AuthServer\obj\Debug\net8.0\AuthServer.AssemblyInfoInputs.cache
+C:\Users\mkurt\Documents\GitHub\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\PREFINALS_AUTH_ARCIAGA_MATTHEW\AuthServer\obj\Debug\net8.0\AuthServer.AssemblyInfo.cs
+C:\Users\mkurt\Documents\GitHub\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\PREFINALS_AUTH_ARCIAGA_MATTHEW\AuthServer\obj\Debug\net8.0\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\mkurt\Documents\GitHub\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\PREFINALS_AUTH_ARCIAGA_MATTHEW\AuthServer\obj\Debug\net8.0\AuthServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mkurt\Documents\GitHub\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\PREFINALS_AUTH_ARCIAGA_MATTHEW\AuthServer\obj\Debug\net8.0\AuthServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mkurt\Documents\GitHub\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\PREFINALS_AUTH_ARCIAGA_MATTHEW\AuthServer\obj\Debug\net8.0\AuthServer.sourcelink.json
