@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PREFINALS_AUTH_ARCIAGA_MATTHEW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d9694db0a59b7e83867ffc59b61d53831b13d1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a56efafd1f4b8441076da305bc55a90df6313e88")]
 [assembly: System.Reflection.AssemblyProductAttribute("PREFINALS_AUTH_ARCIAGA_MATTHEW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PREFINALS_AUTH_ARCIAGA_MATTHEW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
