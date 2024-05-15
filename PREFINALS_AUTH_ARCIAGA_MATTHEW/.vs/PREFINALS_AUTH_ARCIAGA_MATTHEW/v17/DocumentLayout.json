@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|c:\\users\\mkurt\\documents\\github\\prefinals_assignment1_arciaga_matthewkurt_bsit_32a1\\prefinals_auth_arciaga_matthew\\authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|c:\\users\\mkurt\\documents\\github\\prefinals_assignment1_arciaga_matthewkurt_bsit_32a1\\prefinals_auth_arciaga_matthew\\authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|c:\\users\\mkurt\\documents\\github\\prefinals_assignment1_arciaga_matthewkurt_bsit_32a1\\prefinals_auth_arciaga_matthew\\authserver\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|c:\\users\\mkurt\\documents\\github\\prefinals_assignment1_arciaga_matthewkurt_bsit_32a1\\prefinals_auth_arciaga_matthew\\authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|c:\\users\\mkurt\\documents\\github\\prefinals_assignment1_arciaga_matthewkurt_bsit_32a1\\prefinals_auth_arciaga_matthew\\authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4AE7C6-1A9A-4E95-B2EA-36B41FAA9CEF}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\mkurt\\documents\\github\\prefinals_assignment1_arciaga_matthewkurt_bsit_32a1\\prefinals_auth_arciaga_matthew\\protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4AE7C6-1A9A-4E95-B2EA-36B41FAA9CEF}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|c:\\users\\mkurt\\documents\\github\\prefinals_assignment1_arciaga_matthewkurt_bsit_32a1\\prefinals_auth_arciaga_matthew\\authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|c:\\users\\mkurt\\documents\\github\\prefinals_assignment1_arciaga_matthewkurt_bsit_32a1\\prefinals_auth_arciaga_matthew\\authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|c:\\users\\mkurt\\documents\\github\\prefinals_assignment1_arciaga_matthewkurt_bsit_32a1\\prefinals_auth_arciaga_matthew\\authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|c:\\users\\mkurt\\documents\\github\\prefinals_assignment1_arciaga_matthewkurt_bsit_32a1\\prefinals_auth_arciaga_matthew\\authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|c:\\users\\mkurt\\documents\\github\\prefinals_assignment1_arciaga_matthewkurt_bsit_32a1\\prefinals_auth_arciaga_matthew\\authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EF8E0A-05E7-4599-AC79-1D5BC8E2C74A}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\ProtectedApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Program.cs",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\ProtectedApi\\Program.cs",
+              "RelativeToolTip": "ProtectedApi\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:08:52.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthServer",
+              "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\AuthServer.csproj",
+              "RelativeDocumentMoniker": "AuthServer\\AuthServer.csproj",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\AuthServer.csproj",
+              "RelativeToolTip": "AuthServer\\AuthServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T17:07:09.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "AuthServer\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\JwtSettings.cs",
+              "RelativeToolTip": "AuthServer\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:05:20.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "AuthServer\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:03:21.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthServer\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:01:10.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Core\\User.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Core\\User.cs",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Core\\User.cs",
+              "RelativeToolTip": "AuthServer\\Core\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:56:23.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Program.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Program.cs",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Program.cs",
+              "RelativeToolTip": "AuthServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:44:35.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Core\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Core\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Core\\IAuthService.cs",
+              "RelativeToolTip": "AuthServer\\Core\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:57:08.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Core\\IUserService.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Core\\IUserService.cs",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Core\\IUserService.cs",
+              "RelativeToolTip": "AuthServer\\Core\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:56:50.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\appsettings.json",
+              "RelativeToolTip": "AuthServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T14:47:36.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Secret.cs",
+              "DocumentMoniker": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Secret.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Secret.cs",
+              "ToolTip": "C:\\Users\\mkurt\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_ARCIAGA_MATTHEWKURT_BSIT_32A1\\PREFINALS_AUTH_ARCIAGA_MATTHEW\\AuthServer\\Secret.cs",
+              "RelativeToolTip": "AuthServer\\Secret.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:44:43.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
